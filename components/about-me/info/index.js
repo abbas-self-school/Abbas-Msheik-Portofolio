@@ -3,7 +3,7 @@ import React from 'react';
 const MyInfo = () => {
     return (
         <div className="flex flex-col items-center w-[90%] mx-auto my-10">
-            <h2 className="text-4xl text-white font-Bodoni mt-3">
+            <h2 className="text-4xl text-center text-white font-Bodoni mt-3">
                 Frontend Web Developer
             </h2>
             <p className="text-xl text-white text-center tracking-wide mt-3 w-[80%] xl:w-[60%] mx-auto">
