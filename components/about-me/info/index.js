@@ -6,17 +6,8 @@ const MyInfo = () => {
             <h2 className="text-4xl text-white font-Bodoni mt-3">
                 Frontend Web Developer
             </h2>
-            <p className="text-xl text-white tracking-wide mt-3">
-                A Frontend Developer Living In Lebanon,
-            </p>
-            <p className="text-xl text-white tracking-wide mt-1">
-                I Am 30 Years Old With More Than 2 Years Of Experience,
-            </p>
-            <p className="text-xl text-white tracking-wide mt-1">
-                Work As Octopus Company Employee And A Freelancer,
-            </p>
-            <p className="text-xl text-white tracking-wide mt-1">
-                And Look Forward To Elegance And Smoothness In The Designs.
+            <p className="text-xl text-white text-center tracking-wide mt-3 w-[80%] xl:w-[60%] mx-auto">
+            I’m a 30 years old Frontend developer living in lebanon with more than 2 years of experience as an employee in Octopus company  and solely as a freelancer , i’m always digging for elegance and smoothnes in my designs and striving for new achievements in my career
             </p>
         </div>
     )

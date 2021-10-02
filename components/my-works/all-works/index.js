@@ -3,10 +3,10 @@ import Link from 'next/link';
 
 const AllWorks = () => {
     const [works, setWorks] = useState([
-        {img: "/imgs/works/compressImages.png", link: "https://compression-images.vercel.app/"},
-        {img: "/imgs/works/todos.png", link: "https://nextjs-todolist-pi.vercel.app/"},
-        {img: "/imgs/works/eCommerce.png", link: "https://e-cmmerce-plsp.vercel.app/"},
-        {img: "/imgs/works/weather.png", link: "https://weather-app-abbas-msheik.vercel.app/"}
+        {img: "/imgs/works/compressImages.png", link: "https://admiring-easley-a937dd.netlify.app/"},
+        {img: "/imgs/works/todos.png", link: "https://dreamy-borg-cb516f.netlify.app/"},
+        {img: "/imgs/works/eCommerce.png", link: "https://kind-gates-db72b1.netlify.app/"},
+        {img: "/imgs/works/weather.png", link: "https://affectionate-cori-da74ee.netlify.app/"}
     ]);
     return (
         <div className="flex flex-row flex-wrap w-[98%] xl:w-[90%] mx-auto my-5">
