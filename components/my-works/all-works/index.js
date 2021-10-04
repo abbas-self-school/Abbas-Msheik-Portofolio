@@ -6,7 +6,7 @@ const AllWorks = () => {
         {img: "/imgs/works/compressImages.png", link: "https://admiring-easley-a937dd.netlify.app/"},
         {img: "/imgs/works/todos.png", link: "https://dreamy-borg-cb516f.netlify.app/"},
         {img: "/imgs/works/eCommerce.png", link: "https://kind-gates-db72b1.netlify.app/"},
-        {img: "/imgs/works/weather.png", link: "https://affectionate-cori-da74ee.netlify.app/"}
+        {img: "/imgs/works/weather.jpg", link: "https://affectionate-cori-da74ee.netlify.app/"}
     ]);
     return (
         <div className="flex flex-row flex-wrap w-[98%] xl:w-[90%] mx-auto my-5">
